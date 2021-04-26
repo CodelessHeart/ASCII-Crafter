@@ -27,6 +27,8 @@ def info():
 	print("Автор github.com/CodelessHeart , за предложениями - в мой телеграмм.")
 	print("Telegram - @InfinityALT")
 	empt()
+	time.sleep(10)
+	menu()
 def empt():
 	print(" ")
 def fig(text):
