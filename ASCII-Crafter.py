@@ -57,10 +57,6 @@ def craftfont():
 		print("СЛАВА УКРАИНЕ! ГЕРОЯМ СЛАВА!")
 		time.sleep(ch1)
 		raise SystemExit
-	if fonter == "vk.com/hate3 Zaytsev Kirill":
-		print("ДА ПРИКИНЬ ЭТУ ПРОГУ НАПИСАЛ Я!")
-		time.sleep(ch1)
-		raise SystemExit
 	figfont(text2 , fonter)
 	time.sleep(ch1)
 	raise SystemExit
