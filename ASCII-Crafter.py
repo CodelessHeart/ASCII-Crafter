@@ -1,5 +1,6 @@
 import time
 import pyfiglet
+Print("OLD VERSION 2.0 COMING NOW")
 def menu():
 	fig("ASCII - Crafter")
 	empt()
